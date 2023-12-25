@@ -1,4 +1,4 @@
-# MoniCropiOSFirebase
+# MoniCrop iOS (Firebase Version)
 A new release of the previous MoniCrop iOS application, but now connected to Firebase.
 
 
